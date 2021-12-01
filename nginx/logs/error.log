@@ -1,0 +1,163 @@
+2021/11/30 20:55:18 [notice] 1#1: using the "epoll" event method
+2021/11/30 20:55:18 [notice] 1#1: nginx/1.21.4
+2021/11/30 20:55:18 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 20:55:18 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/11/30 20:55:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 20:55:18 [notice] 1#1: start worker processes
+2021/11/30 20:55:18 [notice] 1#1: start worker process 23
+2021/11/30 20:55:18 [notice] 1#1: start worker process 24
+2021/11/30 21:02:09 [notice] 1#1: signal 15 (SIGTERM) received from 44, exiting
+2021/11/30 21:02:09 [notice] 24#24: exiting
+2021/11/30 21:02:09 [notice] 23#23: exiting
+2021/11/30 21:02:09 [notice] 24#24: exit
+2021/11/30 21:02:09 [notice] 23#23: exit
+2021/11/30 21:02:09 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/30 21:02:09 [notice] 1#1: worker process 23 exited with code 0
+2021/11/30 21:02:09 [notice] 1#1: signal 29 (SIGIO) received
+2021/11/30 21:02:09 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/30 21:02:09 [notice] 1#1: worker process 24 exited with code 0
+2021/11/30 21:02:09 [notice] 1#1: exit
+2021/11/30 21:04:16 [notice] 1#1: using the "epoll" event method
+2021/11/30 21:04:16 [notice] 1#1: nginx/1.21.4
+2021/11/30 21:04:16 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/11/30 21:04:16 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/11/30 21:04:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/30 21:04:16 [notice] 1#1: start worker processes
+2021/11/30 21:04:16 [notice] 1#1: start worker process 32
+2021/11/30 21:04:16 [notice] 1#1: start worker process 33
+2021/12/01 08:58:28 [notice] 1#1: using the "epoll" event method
+2021/12/01 08:58:28 [notice] 1#1: nginx/1.21.4
+2021/12/01 08:58:28 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 08:58:28 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 08:58:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 08:58:28 [notice] 1#1: start worker processes
+2021/12/01 08:58:28 [notice] 1#1: start worker process 26
+2021/12/01 08:58:28 [notice] 1#1: start worker process 27
+2021/12/01 09:04:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/12/01 09:04:41 [notice] 27#27: gracefully shutting down
+2021/12/01 09:04:41 [notice] 27#27: exiting
+2021/12/01 09:04:41 [notice] 26#26: gracefully shutting down
+2021/12/01 09:04:41 [notice] 26#26: exiting
+2021/12/01 09:04:41 [notice] 26#26: exit
+2021/12/01 09:04:41 [notice] 27#27: exit
+2021/12/01 09:04:41 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2021/12/01 09:04:41 [notice] 1#1: worker process 26 exited with code 0
+2021/12/01 09:04:41 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 09:04:41 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2021/12/01 09:04:41 [notice] 1#1: worker process 27 exited with code 0
+2021/12/01 09:04:41 [notice] 1#1: exit
+2021/12/01 09:04:43 [notice] 1#1: using the "epoll" event method
+2021/12/01 09:04:43 [notice] 1#1: nginx/1.21.4
+2021/12/01 09:04:43 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 09:04:43 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 09:04:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 09:04:43 [notice] 1#1: start worker processes
+2021/12/01 09:04:43 [notice] 1#1: start worker process 23
+2021/12/01 09:04:43 [notice] 1#1: start worker process 24
+2021/12/01 09:25:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/12/01 09:25:12 [notice] 23#23: gracefully shutting down
+2021/12/01 09:25:12 [notice] 23#23: exiting
+2021/12/01 09:25:12 [notice] 24#24: gracefully shutting down
+2021/12/01 09:25:12 [notice] 24#24: exiting
+2021/12/01 09:25:12 [notice] 23#23: exit
+2021/12/01 09:25:12 [notice] 24#24: exit
+2021/12/01 09:25:12 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/12/01 09:25:12 [notice] 1#1: worker process 23 exited with code 0
+2021/12/01 09:25:12 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 09:25:12 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/12/01 09:25:12 [notice] 1#1: worker process 24 exited with code 0
+2021/12/01 09:25:12 [notice] 1#1: exit
+2021/12/01 09:25:21 [notice] 1#1: using the "epoll" event method
+2021/12/01 09:25:21 [notice] 1#1: nginx/1.21.4
+2021/12/01 09:25:21 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 09:25:21 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 09:25:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 09:25:21 [notice] 1#1: start worker processes
+2021/12/01 09:25:21 [notice] 1#1: start worker process 24
+2021/12/01 09:25:21 [notice] 1#1: start worker process 25
+2021/12/01 09:25:31 [error] 25#25: *1 "/var/www/musthave.com/index.php" is not found (20: Not a directory), client: 192.168.0.173, server: musthave.com, request: "GET / HTTP/1.1", host: "musthave.com"
+2021/12/01 09:25:31 [error] 25#25: *1 open() "/var/www/musthave.com/favicon.ico" failed (20: Not a directory), client: 192.168.0.173, server: musthave.com, request: "GET /favicon.ico HTTP/1.1", host: "musthave.com", referrer: "http://musthave.com/"
+2021/12/01 09:26:38 [error] 25#25: *2 "/var/www/musthave.com/index.php" is not found (20: Not a directory), client: 192.168.0.173, server: musthave.com, request: "GET / HTTP/1.1", host: "wouldbeaplus.com"
+2021/12/01 09:26:38 [error] 25#25: *2 open() "/var/www/musthave.com/favicon.ico" failed (20: Not a directory), client: 192.168.0.173, server: musthave.com, request: "GET /favicon.ico HTTP/1.1", host: "wouldbeaplus.com", referrer: "http://wouldbeaplus.com/"
+2021/12/01 09:33:01 [notice] 1#1: signal 15 (SIGTERM) received from 44, exiting
+2021/12/01 09:33:01 [notice] 24#24: exiting
+2021/12/01 09:33:01 [notice] 24#24: exit
+2021/12/01 09:33:01 [notice] 25#25: exiting
+2021/12/01 09:33:01 [notice] 25#25: exit
+2021/12/01 09:33:01 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2021/12/01 09:33:01 [notice] 1#1: worker process 25 exited with code 0
+2021/12/01 09:33:01 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 09:33:01 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/12/01 09:33:01 [notice] 1#1: worker process 24 exited with code 0
+2021/12/01 09:33:01 [notice] 1#1: exit
+2021/12/01 09:34:59 [notice] 1#1: using the "epoll" event method
+2021/12/01 09:34:59 [notice] 1#1: nginx/1.21.4
+2021/12/01 09:34:59 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 09:34:59 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 09:34:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 09:34:59 [notice] 1#1: start worker processes
+2021/12/01 09:34:59 [notice] 1#1: start worker process 22
+2021/12/01 09:34:59 [notice] 1#1: start worker process 23
+2021/12/01 09:40:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/12/01 09:40:21 [notice] 23#23: gracefully shutting down
+2021/12/01 09:40:21 [notice] 23#23: exiting
+2021/12/01 09:40:21 [notice] 23#23: exit
+2021/12/01 09:40:21 [notice] 22#22: gracefully shutting down
+2021/12/01 09:40:21 [notice] 22#22: exiting
+2021/12/01 09:40:21 [notice] 22#22: exit
+2021/12/01 09:40:21 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/12/01 09:40:21 [notice] 1#1: worker process 22 exited with code 0
+2021/12/01 09:40:21 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 09:40:21 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/12/01 09:40:21 [notice] 1#1: worker process 23 exited with code 0
+2021/12/01 09:40:21 [notice] 1#1: exit
+2021/12/01 09:41:04 [notice] 1#1: using the "epoll" event method
+2021/12/01 09:41:04 [notice] 1#1: nginx/1.21.4
+2021/12/01 09:41:04 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 09:41:04 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 09:41:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 09:41:04 [notice] 1#1: start worker processes
+2021/12/01 09:41:04 [notice] 1#1: start worker process 22
+2021/12/01 09:41:04 [notice] 1#1: start worker process 23
+2021/12/01 10:46:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/12/01 10:46:15 [notice] 23#23: gracefully shutting down
+2021/12/01 10:46:15 [notice] 23#23: exiting
+2021/12/01 10:46:15 [notice] 23#23: exit
+2021/12/01 10:46:15 [notice] 22#22: gracefully shutting down
+2021/12/01 10:46:15 [notice] 22#22: exiting
+2021/12/01 10:46:15 [notice] 22#22: exit
+2021/12/01 10:46:15 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/12/01 10:46:15 [notice] 1#1: worker process 23 exited with code 0
+2021/12/01 10:46:15 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 10:46:15 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/12/01 10:46:15 [notice] 1#1: worker process 22 exited with code 0
+2021/12/01 10:46:15 [notice] 1#1: exit
+2021/12/01 10:46:41 [notice] 1#1: using the "epoll" event method
+2021/12/01 10:46:41 [notice] 1#1: nginx/1.21.4
+2021/12/01 10:46:41 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/01 10:46:41 [notice] 1#1: OS: Linux 5.4.0-91-generic
+2021/12/01 10:46:41 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/12/01 10:46:41 [notice] 1#1: start worker processes
+2021/12/01 10:46:41 [notice] 1#1: start worker process 22
+2021/12/01 10:46:41 [notice] 1#1: start worker process 23
+2021/12/01 10:59:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/12/01 10:59:58 [notice] 23#23: gracefully shutting down
+2021/12/01 10:59:58 [notice] 22#22: gracefully shutting down
+2021/12/01 10:59:58 [notice] 23#23: exiting
+2021/12/01 10:59:58 [notice] 22#22: exiting
+2021/12/01 10:59:58 [notice] 23#23: exit
+2021/12/01 10:59:58 [notice] 22#22: exit
+2021/12/01 10:59:58 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/12/01 10:59:58 [notice] 1#1: worker process 23 exited with code 0
+2021/12/01 10:59:58 [notice] 1#1: signal 29 (SIGIO) received
+2021/12/01 10:59:58 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/12/01 10:59:58 [notice] 1#1: worker process 22 exited with code 0
+2021/12/01 10:59:58 [notice] 1#1: exit
+2021/12/01 10:59:59 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/musthave.com.conf:22
+2021/12/01 11:13:43 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 11:13:44 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 11:28:29 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 11:28:31 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 12:29:35 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 12:40:53 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
+2021/12/01 12:40:55 [emerg] 1#1: unexpected end of file, expecting ";" or "}" in /etc/letsencrypt/options-ssl-nginx.conf:1
